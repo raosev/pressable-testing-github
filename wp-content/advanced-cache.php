@@ -1,0 +1,1 @@
+../../../wordpress/drop-ins/advanced-cache.php
